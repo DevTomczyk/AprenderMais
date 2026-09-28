@@ -1,0 +1,2 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Fraunces:opsz,wght@9..144,700&display=swap');
+* { box-sizing:border-box; } html { scroll-behavior:smooth; } body { margin:0; background:#fffdf9; color:#202848; font-family:'DM Sans',Arial,sans-serif; } button { font:inherit; cursor:pointer; } h1,h2,h3 { font-family:Fraunces,Georgia,serif; }
