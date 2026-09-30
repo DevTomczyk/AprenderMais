@@ -2,7 +2,7 @@
 
 ## Aluno
 
-**[Seu nome completo aqui]**
+**Pedro Henrique Tomczyk**
 
 ## Descrição
 
