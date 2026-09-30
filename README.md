@@ -39,3 +39,6 @@ Aplicação web desenvolvida em Angular para apresentar uma plataforma fictícia
 2. No terminal, execute `npm install`.
 3. Execute `ng serve` ou `npm start`.
 4. Acesse `http://localhost:4200` no navegador.
+
+## Vídeo
+ `https://youtu.be/Pdg1Zs_4MDM`
